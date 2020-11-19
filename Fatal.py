@@ -3,7 +3,6 @@ import threading, os, sys, json, time
 from bs4 import BeautifulSoup as bs
 import requests as ru
 from fake_useragent import UserAgent
-# -*- coding: utf-8 -*-
 def bnr():
  print (f"""
 {ken}    ______   _______     _       ____    ____  
